@@ -1,0 +1,233 @@
+id,faction_id,stars,name,icon,hive_pve_score,hive_pvp_score,hive_overall_score
+1,1,3,Chain Hammer,,,,
+2,1,3,Poison Tongue,,,,
+3,1,3,Shirley,,,,
+4,1,3,Dark Priest,,,,
+5,1,3,Ice Troll,,,,
+6,1,4,Grumpy Corpse,,,,
+7,1,4,Gbagbo,,,,
+8,1,4,Bonecarver,,,,
+9,1,4,Glen,,,,
+10,1,4,Nightmare Knight,,,,
+11,1,4,Bone General,,,,
+12,1,4,Lamb,,,,
+13,1,4,Deathsworn,,,,
+14,1,5,Grumpy Corpse,,,,
+15,1,5,Gbagbo,,,,
+16,1,5,Bonecarver,,,,
+17,1,5,Glen,,,,
+18,1,5,Nightmare Knight,,,,
+19,1,5,Bone General,,,,
+20,1,5,Lamb,,,,
+21,1,5,Deathsworn,,,,
+22,1,5,Kharma,,,,
+23,1,5,Blood Blade,,,,
+24,1,5,Dominator,,,,
+25,1,5,Lutz,,,,
+26,1,5,Field,,,,
+27,1,5,Corpsedemon,,,,
+28,1,5,Baade,,,,
+29,1,5,Kamath,,,,
+30,1,5,Aidan,,,,
+31,1,5,Walter,,,,
+32,1,5,Jahra,,,,
+33,1,5,Horus,,,,
+34,1,6,Bonecarver,,,,
+35,1,6,Glen,,,,
+36,1,6,Deathsworn,,,,
+37,1,6,Kharma,,3,3.6,3.3
+38,1,6,Blood Blade,,8.2,6.4,7.3
+39,1,6,Dominator,,3.6,2.6,3.1
+40,1,6,Lutz,,7.1,6,6.6
+41,1,6,Field,,2.1,2.4,2.3
+42,1,6,Corpsedemon,,6.1,7.4,7
+43,1,6,Baade,,4.9,3.7,4.3
+44,1,6,Kamath,,5.8,7.9,6.9
+45,1,6,Aidan,,6,6.1,6.1
+46,1,6,Walter,,7.5,6.5,7
+47,1,6,Jahra,,8.2,8.2,8.1
+48,1,6,Horus,,8.7,8.2,7.7
+49,2,3,Reggie,,,,
+50,2,3,Carver,,,,
+51,2,3,Tara's Servant,,,,
+52,2,3,Fire Fist,,,,
+53,2,3,MK-03,,,,
+54,2,4,Time Mage,,,,
+55,2,4,Storm Hudde,,,,
+56,2,4,Roy,,,,
+57,2,4,Sierra,,,,
+58,2,4,Liquor,,,,
+59,2,4,LM-02,,,,
+60,2,4,Iron Bambi,,,,
+61,2,4,Kristian,,,,
+62,2,5,Time Mage,,,,
+63,2,5,Storm Hudde,,,,
+64,2,5,Roy,,,,
+65,2,5,Sierra,,,,
+66,2,5,Liquor,,,,
+67,2,5,LM-02,,,,
+68,2,5,Iron Bambi,,,,
+69,2,5,Kristian,,,,
+70,2,5,Emily,,,,
+71,2,5,Ormus,,,,
+72,2,5,Honor Guard,,,,
+73,2,5,Flame Strike,,,,
+74,2,5,Iceblink,,,,
+75,2,5,Bleecker,,,,
+76,2,5,Sigmund,,,,
+77,2,5,Mirage,,,,
+78,2,5,Miki,,,,
+79,2,5,OD-01,,,,
+80,2,5,Valentino,,,,
+81,2,5,Xia,,,,
+82,2,6,Roy,,,,
+83,2,6,Sierra,,,,
+84,2,6,Kristian,,,,
+85,2,6,Emily,,5.7,6.6,6.2
+86,2,6,Ormus,,7.8,6,6.9
+87,2,6,Honor Guard,,,,
+88,2,6,Flame Strike,,7.6,7,7.3
+89,2,6,Iceblink,,6.1,7.1,6.6
+90,2,6,Bleecker,,2.1,2.7,2.4
+91,2,6,Sigmund,,8.6,6.5,7.6
+92,2,6,Mirage,,4.6,2.5,3.6
+93,2,6,Miki,,3.4,3.7,3.6
+94,2,6,OD-01,,4.4,5.4,4.9
+95,2,6,Valentino,,7.5,8.4,8
+96,2,6,Xia,,8.3,7.7,8
+97,3,3,Abyss Guard,,,,
+98,3,3,Wild Beast,,,,
+99,3,3,Succube,,,,
+100,3,3,Flaming Lips,,,,
+101,3,3,Mirko,,,,
+102,3,4,Rogge,,,,
+103,3,4,Destroyer,,,,
+104,3,4,Tanner,,,,
+105,3,4,Akasha,,,,
+106,3,4,Lemegeton,,,,
+107,3,4,Aleria,,,,
+108,3,4,Norma,,,,
+109,3,4,Immolatus,,,,
+110,3,5,Rogge,,,,
+111,3,5,Destroyer,,,,
+112,3,5,Tanner,,,,
+113,3,5,Akasha,,,,
+114,3,5,Lemegeton,,,,
+115,3,5,Aleria,,,,
+116,3,5,Norma,,,,
+117,3,5,Immolatus,,,,
+118,3,5,Skerei,,,,
+119,3,5,Dantalian,,,,
+120,3,5,Margaret,,,,
+121,3,5,Barea,,,,
+122,3,5,Queen,,,,
+123,3,5,Lord Balrog,,,,
+124,3,5,Fat Mu,,,,
+125,3,5,Gusta,,,,
+126,3,5,Karim,,,,
+127,3,5,Kroos,,,,
+128,3,5,King Barton,,,,
+129,3,5,Cthuga,,,,
+130,3,6,Destroyer,,,,
+131,3,6,Aleria,,,,
+132,3,6,Norma,,,,
+133,3,6,Skerei,,8.5,8.1,8.3
+134,3,6,Dantalian,,6.2,4.3,5.3
+135,3,6,Margaret,,5.6,4.1,4.9
+136,3,6,Barea,,8.2,6.4,7.3
+137,3,6,Queen,,7.7,7.5,7.6
+138,3,6,Lord Balrog,,3.7,2.8,3.3
+139,3,6,Fat Mu,,3.4,2.6,3
+140,3,6,Gusta,,2.1,2.1,2.1
+141,3,6,Karim,,7.9,7.6,7.8
+142,3,6,Kroos,,8.2,8.1,8.2
+143,3,6,King Barton,,7.9,8.2,8.1
+144,3,6,Cthuga,,7.8,7.3,7.6
+145,4,3,Sybil,,,,
+146,4,3,Undomiel,,,,
+147,4,3,Blue Shaman,,,,
+148,4,3,Frey,,,,
+149,4,3,Forests Captain,,,,
+150,4,4,Wind Walker,,,,
+151,4,4,Chief,,,,
+152,4,4,Ent Elder,,,,
+153,4,4,Headstriker,,,,
+154,4,4,Thale,,,,
+155,4,4,Kargath,,,,
+156,4,4,The Grey-eyed,,,,
+157,4,4,Zekkis,,,,
+158,4,5,Wind Walker,,,,
+159,4,5,Chief,,,,
+160,4,5,Ent Elder,,,,
+161,4,5,Headstriker,,,,
+162,4,5,Thale,,,,
+163,4,5,Kargath,,,,
+164,4,5,The Grey-eyed,,,,
+165,4,5,Zekkis,,,,
+166,4,5,Demon Hunter,,,,
+167,4,5,Dragon Slayer,,,,
+168,4,5,Faceless,,,,
+169,4,5,Rosa,,,,
+170,4,5,Starlight,,,,
+171,4,5,Groo,,,,
+172,4,5,Eddga,,,,
+173,4,5,Vesa,,,,
+174,4,5,Malassa,,,,
+175,4,5,Heart Watcher,,,,
+176,4,5,Valkyrie,,,,
+177,4,5,Oberon,,,,
+178,4,6,Thale,,,,
+179,4,6,The Grey-eyed,,,,
+180,4,6,Zekkis,,,,
+181,4,6,Demon Hunter,,7,8.2,7.6
+182,4,6,Dragon Slayer,,5.9,3.6,4.8
+183,4,6,Faceless,,3.3,2.6,3
+184,4,6,Rosa,,7.8,6.3,7.1
+185,4,6,Starlight,,5.5,5.5,5.5
+186,4,6,Groo,,6.4,5.9,6.2
+187,4,6,Eddga,,4.2,2.3,3.3
+188,4,6,Vesa,,8.3,7.9,8.1
+189,4,6,Malassa,,6.7,5,5.9
+190,4,6,Heart Watcher,,8.7,6.1,7.4
+191,4,6,Valkyrie,,8.1,8.3,8.2
+192,4,6,Oberon,,5,4.6,4.8
+193,5,3,Ghost of Aspen,,,,
+194,5,4,Darkness Fanella,,,,
+195,5,4,Logan,,,,
+196,5,4,Dark Spirit,,,,
+197,5,5,Darkness Fanella,,,,
+198,5,5,Logan,,,,
+199,5,5,Dark Spirit,,,,
+200,5,5,Dark Anthindol,,,,
+201,5,5,Sleepless,,,,
+202,5,5,Das Moge,,,,
+203,5,5,Amuvor,,,,
+204,5,5,Mihm,,,,
+205,5,5,Aspen,,,,
+206,5,6,Dark Spirit,,,,
+207,5,6,Dark Anthindol,,5.2,8.1,6.7
+208,5,6,Sleepless,,5.6,5.8,5.7
+209,5,6,Das Moge,,8.3,7.6,8
+210,5,6,Amuvor,,8.3,8.5,8.4
+211,5,6,Mihm,,6.6,8.6,7.6
+212,5,6,Aspen,,8.3,8.5,8.4
+213,6,3,Holy Kid,,,,
+214,6,4,Disciple,,,,
+215,6,4,Fegan,,,,
+216,6,4,DivineSpirit,,,,
+217,6,5,Disciple,,,,
+218,6,5,Fegan,,,,
+219,6,5,Divine Spirit,,,,
+220,6,5,Gerke,,,,
+221,6,5,Asmodel,,,,
+222,6,5,Michelle,,,,
+223,6,5,Faith Blade,,,,
+224,6,5,Belrain,,,,
+225,6,5,Aida,,,,
+226,6,6,Divine Spirit,,,,
+227,6,6,Gerke,,7.8,6.4,7.1
+228,6,6,Asmodel,,7.5,8.2,7.9
+229,6,6,Michelle,,7,8.3,7.7
+230,6,6,Faith Blade,,6.2,8.5,7.4
+231,6,6,Belrain,,7.7,8.3,8
+232,6,6,Aida,,8.7,8.6,8.7
